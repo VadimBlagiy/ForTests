@@ -1,4 +1,4 @@
 public class One {
 
-    String string = "Hello world";
+    String string = "Hello lesson git";
 }
