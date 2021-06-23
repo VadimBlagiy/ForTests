@@ -10,6 +10,7 @@ public class Test3Copy {
 //                sum += znak*i;
 //                znak *= -1;
 //
+        //just for test
 //
 //            }
 
